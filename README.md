@@ -1,3 +1,3 @@
 This work contains Store-app for educational purposes using:
 
-ReactJs & Bootstrap5
+<h3>ReactJs & Bootstrap5
